@@ -1,0 +1,2 @@
+# npm-mcrypt
+Typings for
