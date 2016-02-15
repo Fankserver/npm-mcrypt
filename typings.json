@@ -1,0 +1,4 @@
+{
+  "name": "mcrypt",
+  "main": "mcrypt.d.ts"
+}
